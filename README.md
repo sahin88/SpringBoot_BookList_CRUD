@@ -17,7 +17,7 @@ You can then access SpringBoot_BookList_CRUD here: http://localhost:8082/
 
 <img width="720" alt="spring_crud_" src="https://github.com/sahin88/SpringBoot_BookList_CRUD/blob/main/screen_1.png">
 
-<img width="720" alt="spring_crud_" src="https://github.com/sahin88/SpringBoot_BookList_CRUD/blob/main/screen_22.png">
+
 
 
 Or you can run it from Maven directly using the Spring Boot Maven plugin. If you do this it will pick up changes that you make in the project immediately (changes to Java source files require a compile as well - most people use an IDE for this):
@@ -26,6 +26,8 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 ./mvnw spring-boot:run
 ```
 
+## Uml Diagramm
+<img width="720" alt="spring_crud_" src="https://github.com/sahin88/SpringBoot_BookList_CRUD/blob/main/Blank%20diagram.png">
 
 
 
