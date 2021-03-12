@@ -16,7 +16,7 @@ java -jar target/*.jar
 You can then access SpringBoot_BookList_CRUD here: http://localhost:8082/
 
 <img width="720" alt="spring_crud_" src="https://github.com/sahin88/SpringBoot_BookList_CRUD/blob/main/screen_1.png">
-
+<img width="720" alt="spring_crud_" src="https://github.com/sahin88/SpringBoot_BookList_CRUD/blob/main/screen_22.png">
 
 
 
