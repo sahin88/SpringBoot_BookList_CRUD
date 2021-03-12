@@ -5,7 +5,17 @@
 ## Running Spring Boot Crud locally
 BookApp is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
 
+### Technologies
+The following items  have been  used for this project:
+* Spring Boot.
+* Spring Data JPA & Hibernate
+* Thymleaf&Mysql JDBC Driver
 
+### Software Programms
+
+* Java Development Kit(JDK).
+* Spring Tool Suite IDE (sts)
+* MYSQL database server & Workbench
 ```
 https://github.com/sahin88/SpringBoot_BookList_CRUD
 cd SpringBoot_BookList_CRUD
